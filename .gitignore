@@ -3,6 +3,3 @@
 spring-boot-refresh-token/mvnw
 spring-boot-refresh-token/mvnw.cmd
 spring-boot-refresh-token/.mvn
-*.jar
-spring-boot-refresh-token/src/main/resources/application.properties
-spring-boot-refresh-token/.mvn/wrapper/maven-wrapper.jar
